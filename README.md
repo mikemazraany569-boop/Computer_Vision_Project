@@ -54,7 +54,7 @@ The original ExDark dataset contains approximately **7,363 low-light images**.
 
 For this project, the dataset was prepared and converted into a YOLO-compatible object detection format before training.
 
-**Final number of images used:** `[INSERT FINAL NUMBER]`
+**Final number of images used:** `[7361]`
 
 ### Classes
 
